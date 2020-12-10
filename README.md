@@ -1,6 +1,6 @@
-#Finder Up - teste
+# Finder Up - teste
 
-##Instalações:
+## Instalações:
 
 Todos as dependencias já estão salvas no package.json,
 
@@ -10,12 +10,12 @@ então basta rodar este comando no seu terminal
 $ npm install
 ```
 
-##Pré requisitos
+## Pré requisitos
 
 Os funcionários cadastrados devem ter suas funções com os nomes de: "Estoquista" e "Padeiro"
 
 
-##Rotas:
+## Rotas:
 
 As rotas disponíveis são essas:
 
